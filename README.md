@@ -1,7 +1,7 @@
 # SLBDetection-Net: Towards closed-set and open-set student learning behavior detection in smart classroom of K-12 education
 ---
 ## Citations
-If you want to use this dataset  in your research, please cite the following works:
+If you want to use our code and datasets in your research, please cite the following works:
 ### APA
 [1] Wang, Z., Li, L., Zeng, C., Dong, S., & Sun, J. (2025). SLBDetection-Net: Towards closed-set and open-set student learning behavior detection in smart classroom of K-12 education. Expert Systems with Applications, 260, 125392. https://doi.org/10.1016/j.eswa.2024.125392
 
